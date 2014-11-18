@@ -1,5 +1,6 @@
 *.pdf
 *.dat
+*.swp
 fft.py
 fit.py
 relaxation_fit.py
