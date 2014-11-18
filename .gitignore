@@ -1,0 +1,5 @@
+*.pdf
+*.dat
+fft.py
+fit.py
+relaxation_fit.py
