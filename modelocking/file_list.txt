@@ -1,0 +1,16 @@
+data/21.dat
+data/22.dat
+data/23a.dat
+data/24.dat
+data/25.dat
+data/26.dat
+data/27.dat
+data/28.dat
+data/29.dat
+data/30.dat
+data/31.dat
+data/32.dat
+data/33.dat
+data/34.dat
+data/35.dat
+data/36.dat
